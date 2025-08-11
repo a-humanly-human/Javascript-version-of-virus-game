@@ -1,7 +1,6 @@
 # Javascript-version-of-virus-game
 a virus game i made with javascript
 first cd to your chosen directory\
-
 `cd YOUR/CHOSEN/DIRECTORY`
 
 use\
